@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DatabaseUtil {
-	public static String URL = "jdbc:mysql://localhost:3306/servlet";
+	public static String URL = "jdbc:mysql://localhost:3306/CollegeManagement";
 	public static String USERNAME = "root";
 	public static String PASSWORD = "";
 
